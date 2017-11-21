@@ -1,0 +1,23 @@
+{
+  "name": "js-async-solution",
+  "version": "1.0.0",
+  "description": "JavaScript 异步编程解决方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yycsrkl/Js-async-solution.git"
+  },
+  "author": "kawhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yycsrkl/Js-async-solution/issues"
+  },
+  "homepage": "https://github.com/yycsrkl/Js-async-solution#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "node-fetch": "^1.7.3"
+  }
+}
